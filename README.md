@@ -16,7 +16,7 @@ Repositório pessoal para organização e estudo de livros sobre engenharia de s
 | 🛡️ | Engenharia de Confiabilidade do Google | [Ler PDF](<livros/Engenharia de Confiabilidade do Google.pdf>) |
 | ⚙️ | engenharia de software 9 edicao | [Ler PDF](<livros/engenharia de software 9 edicao.pdf>) |
 | ⚙️ | Engenharia de software 10 | [Ler PDF](<livros/Engenharia de software 10.pdf>) |
-| ⚙️ | engenharia-de-software-moderna | [Ler PDF](<livros/engenharia-de-software-moderna.pdf>) |
+| ⚙️ | Engenharia-de-software-moderna | [Ler PDF](<livros/engenharia-de-software-moderna.pdf>) |
 | 💡 | Entendendo Algoritmos | [Ler PDF](<livros/Entendendo Algoritmos Um guia ilustrado para programadores e outros curiosos.pdf>) |
 | 🔄 | Extreme Programming Praticas | [Ler PDF](<livros/Extreme Programming Praticas para o dia-a-day no desenvolvimento agil de software.pdf>) |
 | 🔄 | Extreme Programming Explained | [Ler PDF](<livros/Extreme Programming Explained - Embrace Change.pdf>) |
